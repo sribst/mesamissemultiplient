@@ -18,3 +18,14 @@ editor: undefined
 - [A table les grands et les petits](https://www.youtube.com/watch?v=LNB27Jjj_b0&list=PLJRm2-qqOJFsxuBpm139g02GtJXUjs933&index=20)
 - [L'araignée gypsy](https://www.youtube.com/watch?v=XWV-Zn0lEJo&list=PLJRm2-qqOJFsxuBpm139g02GtJXUjs933&index=1)
 - [Une souris verte](https://www.youtube.com/watch?v=kmHXbfsqg7A)
+
+## Bouquin pour les bébé-signe
+
+- [Viggo - livre bilingue lsf-français](https://www.inclood.fr/produit/viggo/)
+  C'est un livre avec une application pleine de vidéos qui permet au enfant
+  sourd de profiter du livre comme d'un entendant. Les sourds signant sont des
+  acteurs et peuvent être regarder sans parler la lsf.
+
+## Liens utiles
+- [Dictionnaire français-lsf](https://dico.elix-lsf.fr/)
+- [chaine youtube sur le bébé-signe](https://www.youtube.com/channel/UCnsaz1WSnMcHA5EoShzb-6Q)
