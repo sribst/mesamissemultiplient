@@ -25,6 +25,9 @@ editor: undefined
   C'est un livre avec une application pleine de vidéos qui permet au enfant
   sourd de profiter du livre comme d'un entendant. Les sourds signant sont des
   acteurs et peuvent être regarder sans parler la lsf.
+- [petit panda et petit pingouin](https://www.editionskiwi.fr/auteur/emilie-faye/)
+  Deux livres présentant quelques signes simples, comme ça l'enfant peut les
+  découvrir avec vous en lisant
 
 ## Liens utiles
 - [Dictionnaire français-lsf](https://dico.elix-lsf.fr/)
