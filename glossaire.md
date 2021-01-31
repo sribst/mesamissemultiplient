@@ -62,7 +62,6 @@ editor: undefined
   - [sucre](/signaires/alimentation#sucre)
   - [yaourt](/signaires/alimentation#yaourt)
 ### [animaux](/signaires/animaux)
-  - [animaux](/signaires/animaux#animaux)
   - [chat](/signaires/animaux#chat)
   - [chien](/signaires/animaux#chien)
   - [cochon](/signaires/animaux#cochon)
